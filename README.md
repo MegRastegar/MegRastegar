@@ -16,6 +16,12 @@ I’m a computer engineering student passionate about building things that are *
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
 ![Unity](https://img.shields.io/badge/-Unity-333?style=flat&logo=unity)
 ![Blender](https://img.shields.io/badge/-Blender-333?style=flat&logo=blender)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Vite](https://img.shields.io/badge/-Vite-333?style=flat&logo=vite)
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
+![clsx](https://img.shields.io/badge/-clsx-333?style=flat)
 
 ## 🧠 What I know
 - Data structures, algorithms, databases, OS & computer architecture
